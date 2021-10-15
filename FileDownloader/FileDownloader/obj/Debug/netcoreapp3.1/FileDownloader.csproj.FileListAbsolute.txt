@@ -1,0 +1,9 @@
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\bin\Debug\netcoreapp3.1\FileDownloader.deps.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\bin\Debug\netcoreapp3.1\FileDownloader.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\bin\Debug\netcoreapp3.1\FileDownloader.pdb
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\obj\Debug\netcoreapp3.1\FileDownloader.csprojAssemblyReference.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\obj\Debug\netcoreapp3.1\FileDownloader.AssemblyInfoInputs.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\obj\Debug\netcoreapp3.1\FileDownloader.AssemblyInfo.cs
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\obj\Debug\netcoreapp3.1\FileDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\obj\Debug\netcoreapp3.1\FileDownloader.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloader\obj\Debug\netcoreapp3.1\FileDownloader.pdb

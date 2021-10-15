@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloaderDemoApp", "FileDownloaderDemoApp\FileDownloaderDemoApp.csproj", "{136EC9D1-5139-4AFE-9746-5BD74F2C5E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader", "FileDownloader\FileDownloader.csproj", "{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136EC9D1-5139-4AFE-9746-5BD74F2C5E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136EC9D1-5139-4AFE-9746-5BD74F2C5E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136EC9D1-5139-4AFE-9746-5BD74F2C5E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136EC9D1-5139-4AFE-9746-5BD74F2C5E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

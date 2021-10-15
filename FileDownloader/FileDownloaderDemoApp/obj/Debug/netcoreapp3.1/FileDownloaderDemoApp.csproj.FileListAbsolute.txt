@@ -1,0 +1,16 @@
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloaderDemoApp.exe
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloaderDemoApp.deps.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloaderDemoApp.runtimeconfig.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloaderDemoApp.runtimeconfig.dev.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloaderDemoApp.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloaderDemoApp.pdb
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloader.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\bin\Debug\netcoreapp3.1\FileDownloader.pdb
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.csprojAssemblyReference.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.AssemblyInfoInputs.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.AssemblyInfo.cs
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.csproj.CopyComplete
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.pdb
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\FileDownloaderDemoApp\obj\Debug\netcoreapp3.1\FileDownloaderDemoApp.genruntimeconfig.cache
