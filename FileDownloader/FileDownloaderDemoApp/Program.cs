@@ -2,6 +2,8 @@
 using FileDownloader; 
 using System.Collections.Generic;
 using System.IO;
+using System.Threading.Tasks;
+
 namespace FileDownloaderDemoApp
 {
     class Program
@@ -16,6 +18,7 @@ namespace FileDownloaderDemoApp
                 // Do whatever you need
                 var downloadFile = new FileDownloader.FileDownloader();
                 downloadFile.AddFileToDownloadingQueue("",s,"C:/Users/Olga_Vashchenkova/RiderProjects/FileDownloader/Download/"+filename);
+                
             }
         
         }

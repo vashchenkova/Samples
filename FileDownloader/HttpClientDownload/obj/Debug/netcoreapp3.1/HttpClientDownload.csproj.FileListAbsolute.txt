@@ -1,0 +1,13 @@
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\bin\Debug\netcoreapp3.1\HttpClientDownload.exe
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\bin\Debug\netcoreapp3.1\HttpClientDownload.deps.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\bin\Debug\netcoreapp3.1\HttpClientDownload.runtimeconfig.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\bin\Debug\netcoreapp3.1\HttpClientDownload.runtimeconfig.dev.json
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\bin\Debug\netcoreapp3.1\HttpClientDownload.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\bin\Debug\netcoreapp3.1\HttpClientDownload.pdb
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.csprojAssemblyReference.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.AssemblyInfoInputs.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.AssemblyInfo.cs
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.csproj.CoreCompileInputs.cache
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.dll
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.pdb
+C:\Users\Olga_Vashchenkova\RiderProjects\FileDownloader\HttpClientDownload\obj\Debug\netcoreapp3.1\HttpClientDownload.genruntimeconfig.cache

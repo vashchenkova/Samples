@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloaderDemoApp", "Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader", "FileDownloader\FileDownloader.csproj", "{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientDownload", "HttpClientDownload\HttpClientDownload.csproj", "{3E9D100D-7C5D-4788-80E0-58C9B95AA0BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A5FB31-2434-481F-8BE5-AA0C318DB1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9D100D-7C5D-4788-80E0-58C9B95AA0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9D100D-7C5D-4788-80E0-58C9B95AA0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9D100D-7C5D-4788-80E0-58C9B95AA0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9D100D-7C5D-4788-80E0-58C9B95AA0BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

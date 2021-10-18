@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Net.Http;
 using System.IO;
+using System.Threading.Tasks;
 
 namespace FileDownloader
 {
@@ -25,7 +26,7 @@ namespace FileDownloader
               Console.WriteLine("Writing to " + pathToSave);
               var httpClient = new HttpClient();
               byte[] fileBytes = await httpClient.GetByteArrayAsync(url);
-               
+              Console.WriteLine($"{url,-60} {fileBytes.Length,10:#,#}"); 
               File.WriteAllBytes(pathToSave, fileBytes); 
               try
               {
