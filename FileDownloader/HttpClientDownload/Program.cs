@@ -47,6 +47,9 @@ namespace ProcessTasksAsTheyFinish
         static async Task<int> ProcessUrlAsync(string url, HttpClient client)
         {
             byte[] content = await client.GetByteArrayAsync(url);
+            var filename = url.Substring(url.LastIndexOf("/")+1, url.Length-url.LastIndexOf("/")-1);
+            var pathToSave = "C:/Users/Olga_Vashchenkova/RiderProjects/FileDownloader/Download/" + filename;
+            File.WriteAllBytes(pathToSave, content);
             Console.WriteLine($"{url,-60} {content.Length,10:#,#}");
 
             return content.Length;
